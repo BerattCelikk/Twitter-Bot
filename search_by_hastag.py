@@ -53,5 +53,5 @@ x.signin()
 ssearch=input("What do you want to search for?")
 x.search(ssearch)
 
-input("Tarayıcıyı kapatmak için Enter'a basın")
+input("Press Enter to close the browser")
 x.browser.quit()
